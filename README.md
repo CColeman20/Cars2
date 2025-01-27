@@ -22,7 +22,6 @@ The web app provides interactive visualizations to examine relationships between
 The project is accompanied by an exploratory data analysis (EDA) notebook, which pre-processes the dataset and highlights key insights. 
 
 
-
 ---
 
 #Features
