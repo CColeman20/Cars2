@@ -2,8 +2,14 @@
 
 
 Car Analysis and Dashboard Web App
-
-
+1. Clone this repository:  
+   `git clone https://github.com/<your-username>/<repo-name>.git`
+2. Navigate into the project directory:  
+   `cd <repo-name>`
+3. Install required packages:  
+   `pip install -r requirements.txt`
+4. Run the app using Streamlit:  
+   `streamlit run app.py`
 
 The project is accompanied by an exploratory data analysis (EDA) notebook, which pre-processes the dataset and highlights key insights. 
 =======
