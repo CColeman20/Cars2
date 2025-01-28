@@ -3,9 +3,9 @@
 
 Car Analysis and Dashboard Web App
 1. Clone this repository:  
-   `git clone https://github.com/<your-username>/<repo-name>.git`
+   `git clone https://github.com/CColeman20/Cars2.git
 2. Navigate into the project directory:  
-   `cd <repo-name>`
+   `cd <Cars2>`
 3. Install required packages:  
    `pip install -r requirements.txt`
 4. Run the app using Streamlit:  
